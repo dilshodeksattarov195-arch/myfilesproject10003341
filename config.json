@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercelete",
+        "uuid": 9364823,
+        "checksum": "cxdcw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
